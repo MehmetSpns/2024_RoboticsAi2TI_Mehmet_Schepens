@@ -1,0 +1,36 @@
+[0.489s] Invoking command in '/home/dogan/ros2_ws/src/publisher_pkg': PYTHONPATH=/home/dogan/ros2_ws/build/publisher_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dogan/ros2_ws/install/publisher_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/publisher_pkg build --build-base /home/dogan/ros2_ws/build/publisher_pkg/build install --record /home/dogan/ros2_ws/build/publisher_pkg/install.log --single-version-externally-managed install_data
+[0.642s] running egg_info
+[0.643s] creating ../../build/publisher_pkg/publisher_pkg.egg-info
+[0.643s] writing ../../build/publisher_pkg/publisher_pkg.egg-info/PKG-INFO
+[0.643s] writing dependency_links to ../../build/publisher_pkg/publisher_pkg.egg-info/dependency_links.txt
+[0.643s] writing entry points to ../../build/publisher_pkg/publisher_pkg.egg-info/entry_points.txt
+[0.643s] writing requirements to ../../build/publisher_pkg/publisher_pkg.egg-info/requires.txt
+[0.643s] writing top-level names to ../../build/publisher_pkg/publisher_pkg.egg-info/top_level.txt
+[0.643s] writing manifest file '../../build/publisher_pkg/publisher_pkg.egg-info/SOURCES.txt'
+[0.644s] reading manifest file '../../build/publisher_pkg/publisher_pkg.egg-info/SOURCES.txt'
+[0.644s] writing manifest file '../../build/publisher_pkg/publisher_pkg.egg-info/SOURCES.txt'
+[0.645s] running build
+[0.645s] running build_py
+[0.645s] creating /home/dogan/ros2_ws/build/publisher_pkg/build
+[0.645s] creating /home/dogan/ros2_ws/build/publisher_pkg/build/lib
+[0.645s] creating /home/dogan/ros2_ws/build/publisher_pkg/build/lib/publisher_pkg
+[0.645s] copying publisher_pkg/__init__.py -> /home/dogan/ros2_ws/build/publisher_pkg/build/lib/publisher_pkg
+[0.645s] running install
+[0.645s] running install_lib
+[0.645s] creating /home/dogan/ros2_ws/install/publisher_pkg/lib/python3.10/site-packages/publisher_pkg
+[0.645s] copying /home/dogan/ros2_ws/build/publisher_pkg/build/lib/publisher_pkg/__init__.py -> /home/dogan/ros2_ws/install/publisher_pkg/lib/python3.10/site-packages/publisher_pkg
+[0.646s] byte-compiling /home/dogan/ros2_ws/install/publisher_pkg/lib/python3.10/site-packages/publisher_pkg/__init__.py to __init__.cpython-310.pyc
+[0.646s] running install_data
+[0.646s] creating /home/dogan/ros2_ws/install/publisher_pkg/share/ament_index
+[0.646s] creating /home/dogan/ros2_ws/install/publisher_pkg/share/ament_index/resource_index
+[0.646s] creating /home/dogan/ros2_ws/install/publisher_pkg/share/ament_index/resource_index/packages
+[0.646s] copying resource/publisher_pkg -> /home/dogan/ros2_ws/install/publisher_pkg/share/ament_index/resource_index/packages
+[0.646s] copying package.xml -> /home/dogan/ros2_ws/install/publisher_pkg/share/publisher_pkg
+[0.646s] creating /home/dogan/ros2_ws/install/publisher_pkg/share/publisher_pkg/launch
+[0.646s] copying launch/publisher_pkg_launch_file.launch.py -> /home/dogan/ros2_ws/install/publisher_pkg/share/publisher_pkg/launch
+[0.646s] running install_egg_info
+[0.647s] Copying ../../build/publisher_pkg/publisher_pkg.egg-info to /home/dogan/ros2_ws/install/publisher_pkg/lib/python3.10/site-packages/publisher_pkg-0.0.0-py3.10.egg-info
+[0.648s] running install_scripts
+[0.660s] Installing simple_publisher script to /home/dogan/ros2_ws/install/publisher_pkg/lib/publisher_pkg
+[0.660s] writing list of installed files to '/home/dogan/ros2_ws/build/publisher_pkg/install.log'
+[0.675s] Invoked command in '/home/dogan/ros2_ws/src/publisher_pkg' returned '0': PYTHONPATH=/home/dogan/ros2_ws/build/publisher_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dogan/ros2_ws/install/publisher_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/publisher_pkg build --build-base /home/dogan/ros2_ws/build/publisher_pkg/build install --record /home/dogan/ros2_ws/build/publisher_pkg/install.log --single-version-externally-managed install_data

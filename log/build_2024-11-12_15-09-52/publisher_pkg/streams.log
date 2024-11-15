@@ -1,0 +1,21 @@
+[0.469s] Invoking command in '/home/dogan/ros2_ws/2024_RoboticsAi2TI_Mehmet_Schepens/src/publisher_pkg': PYTHONPATH=/home/dogan/ros2_ws/2024_RoboticsAi2TI_Mehmet_Schepens/build/publisher_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dogan/ros2_ws/2024_RoboticsAi2TI_Mehmet_Schepens/install/publisher_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/publisher_pkg build --build-base /home/dogan/ros2_ws/2024_RoboticsAi2TI_Mehmet_Schepens/build/publisher_pkg/build install --record /home/dogan/ros2_ws/2024_RoboticsAi2TI_Mehmet_Schepens/build/publisher_pkg/install.log --single-version-externally-managed install_data
+[0.648s] running egg_info
+[0.649s] writing ../../build/publisher_pkg/publisher_pkg.egg-info/PKG-INFO
+[0.649s] writing dependency_links to ../../build/publisher_pkg/publisher_pkg.egg-info/dependency_links.txt
+[0.649s] writing entry points to ../../build/publisher_pkg/publisher_pkg.egg-info/entry_points.txt
+[0.649s] writing requirements to ../../build/publisher_pkg/publisher_pkg.egg-info/requires.txt
+[0.649s] writing top-level names to ../../build/publisher_pkg/publisher_pkg.egg-info/top_level.txt
+[0.650s] reading manifest file '../../build/publisher_pkg/publisher_pkg.egg-info/SOURCES.txt'
+[0.651s] writing manifest file '../../build/publisher_pkg/publisher_pkg.egg-info/SOURCES.txt'
+[0.651s] running build
+[0.651s] running build_py
+[0.651s] running install
+[0.651s] running install_lib
+[0.652s] running install_data
+[0.652s] running install_egg_info
+[0.653s] removing '/home/dogan/ros2_ws/2024_RoboticsAi2TI_Mehmet_Schepens/install/publisher_pkg/lib/python3.10/site-packages/publisher_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.653s] Copying ../../build/publisher_pkg/publisher_pkg.egg-info to /home/dogan/ros2_ws/2024_RoboticsAi2TI_Mehmet_Schepens/install/publisher_pkg/lib/python3.10/site-packages/publisher_pkg-0.0.0-py3.10.egg-info
+[0.654s] running install_scripts
+[0.668s] Installing simple_publisher script to /home/dogan/ros2_ws/2024_RoboticsAi2TI_Mehmet_Schepens/install/publisher_pkg/lib/publisher_pkg
+[0.668s] writing list of installed files to '/home/dogan/ros2_ws/2024_RoboticsAi2TI_Mehmet_Schepens/build/publisher_pkg/install.log'
+[0.690s] Invoked command in '/home/dogan/ros2_ws/2024_RoboticsAi2TI_Mehmet_Schepens/src/publisher_pkg' returned '0': PYTHONPATH=/home/dogan/ros2_ws/2024_RoboticsAi2TI_Mehmet_Schepens/build/publisher_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dogan/ros2_ws/2024_RoboticsAi2TI_Mehmet_Schepens/install/publisher_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/publisher_pkg build --build-base /home/dogan/ros2_ws/2024_RoboticsAi2TI_Mehmet_Schepens/build/publisher_pkg/build install --record /home/dogan/ros2_ws/2024_RoboticsAi2TI_Mehmet_Schepens/build/publisher_pkg/install.log --single-version-externally-managed install_data
