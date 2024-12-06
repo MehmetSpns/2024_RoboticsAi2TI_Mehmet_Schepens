@@ -1,0 +1,3 @@
+[console_scripts]
+walldetector = walldetector_pkg.walldetector:main
+

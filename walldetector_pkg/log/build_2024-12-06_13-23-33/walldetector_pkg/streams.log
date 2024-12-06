@@ -1,0 +1,38 @@
+[0.520s] Invoking command in '/home/dogan/ros2_ws/src/walldetector_pkg': PYTHONPATH=/home/dogan/ros2_ws/src/walldetector_pkg/build/walldetector_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dogan/ros2_ws/src/walldetector_pkg/install/walldetector_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/walldetector_pkg build --build-base /home/dogan/ros2_ws/src/walldetector_pkg/build/walldetector_pkg/build install --record /home/dogan/ros2_ws/src/walldetector_pkg/build/walldetector_pkg/install.log --single-version-externally-managed install_data
+[0.706s] running egg_info
+[0.706s] creating build/walldetector_pkg/walldetector_pkg.egg-info
+[0.707s] writing build/walldetector_pkg/walldetector_pkg.egg-info/PKG-INFO
+[0.707s] writing dependency_links to build/walldetector_pkg/walldetector_pkg.egg-info/dependency_links.txt
+[0.707s] writing entry points to build/walldetector_pkg/walldetector_pkg.egg-info/entry_points.txt
+[0.707s] writing requirements to build/walldetector_pkg/walldetector_pkg.egg-info/requires.txt
+[0.707s] writing top-level names to build/walldetector_pkg/walldetector_pkg.egg-info/top_level.txt
+[0.707s] writing manifest file 'build/walldetector_pkg/walldetector_pkg.egg-info/SOURCES.txt'
+[0.708s] reading manifest file 'build/walldetector_pkg/walldetector_pkg.egg-info/SOURCES.txt'
+[0.709s] writing manifest file 'build/walldetector_pkg/walldetector_pkg.egg-info/SOURCES.txt'
+[0.709s] running build
+[0.709s] running build_py
+[0.709s] creating /home/dogan/ros2_ws/src/walldetector_pkg/build/walldetector_pkg/build
+[0.709s] creating /home/dogan/ros2_ws/src/walldetector_pkg/build/walldetector_pkg/build/lib
+[0.709s] creating /home/dogan/ros2_ws/src/walldetector_pkg/build/walldetector_pkg/build/lib/walldetector_pkg
+[0.709s] copying walldetector_pkg/walldetector.py -> /home/dogan/ros2_ws/src/walldetector_pkg/build/walldetector_pkg/build/lib/walldetector_pkg
+[0.709s] copying walldetector_pkg/__init__.py -> /home/dogan/ros2_ws/src/walldetector_pkg/build/walldetector_pkg/build/lib/walldetector_pkg
+[0.709s] running install
+[0.709s] running install_lib
+[0.710s] creating /home/dogan/ros2_ws/src/walldetector_pkg/install/walldetector_pkg/lib/python3.10/site-packages/walldetector_pkg
+[0.710s] copying /home/dogan/ros2_ws/src/walldetector_pkg/build/walldetector_pkg/build/lib/walldetector_pkg/walldetector.py -> /home/dogan/ros2_ws/src/walldetector_pkg/install/walldetector_pkg/lib/python3.10/site-packages/walldetector_pkg
+[0.710s] copying /home/dogan/ros2_ws/src/walldetector_pkg/build/walldetector_pkg/build/lib/walldetector_pkg/__init__.py -> /home/dogan/ros2_ws/src/walldetector_pkg/install/walldetector_pkg/lib/python3.10/site-packages/walldetector_pkg
+[0.710s] byte-compiling /home/dogan/ros2_ws/src/walldetector_pkg/install/walldetector_pkg/lib/python3.10/site-packages/walldetector_pkg/walldetector.py to walldetector.cpython-310.pyc
+[0.711s] byte-compiling /home/dogan/ros2_ws/src/walldetector_pkg/install/walldetector_pkg/lib/python3.10/site-packages/walldetector_pkg/__init__.py to __init__.cpython-310.pyc
+[0.711s] running install_data
+[0.711s] creating /home/dogan/ros2_ws/src/walldetector_pkg/install/walldetector_pkg/share/ament_index
+[0.711s] creating /home/dogan/ros2_ws/src/walldetector_pkg/install/walldetector_pkg/share/ament_index/resource_index
+[0.711s] creating /home/dogan/ros2_ws/src/walldetector_pkg/install/walldetector_pkg/share/ament_index/resource_index/packages
+[0.711s] copying resource/walldetector_pkg -> /home/dogan/ros2_ws/src/walldetector_pkg/install/walldetector_pkg/share/ament_index/resource_index/packages
+[0.711s] copying package.xml -> /home/dogan/ros2_ws/src/walldetector_pkg/install/walldetector_pkg/share/walldetector_pkg
+[0.711s] copying launch/walldetector_pkg_launch_file.launch.py -> /home/dogan/ros2_ws/src/walldetector_pkg/install/walldetector_pkg/share/walldetector_pkg
+[0.711s] running install_egg_info
+[0.712s] Copying build/walldetector_pkg/walldetector_pkg.egg-info to /home/dogan/ros2_ws/src/walldetector_pkg/install/walldetector_pkg/lib/python3.10/site-packages/walldetector_pkg-0.0.0-py3.10.egg-info
+[0.713s] running install_scripts
+[0.727s] Installing walldetector script to /home/dogan/ros2_ws/src/walldetector_pkg/install/walldetector_pkg/lib/walldetector_pkg
+[0.727s] writing list of installed files to '/home/dogan/ros2_ws/src/walldetector_pkg/build/walldetector_pkg/install.log'
+[0.746s] Invoked command in '/home/dogan/ros2_ws/src/walldetector_pkg' returned '0': PYTHONPATH=/home/dogan/ros2_ws/src/walldetector_pkg/build/walldetector_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dogan/ros2_ws/src/walldetector_pkg/install/walldetector_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/walldetector_pkg build --build-base /home/dogan/ros2_ws/src/walldetector_pkg/build/walldetector_pkg/build install --record /home/dogan/ros2_ws/src/walldetector_pkg/build/walldetector_pkg/install.log --single-version-externally-managed install_data

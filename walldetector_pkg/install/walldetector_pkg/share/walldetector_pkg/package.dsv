@@ -1,0 +1,6 @@
+source;share/walldetector_pkg/hook/pythonpath.ps1
+source;share/walldetector_pkg/hook/pythonpath.dsv
+source;share/walldetector_pkg/hook/pythonpath.sh
+source;share/walldetector_pkg/hook/ament_prefix_path.ps1
+source;share/walldetector_pkg/hook/ament_prefix_path.dsv
+source;share/walldetector_pkg/hook/ament_prefix_path.sh

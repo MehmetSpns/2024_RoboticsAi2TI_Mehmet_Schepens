@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+build/walldetector_pkg/walldetector_pkg.egg-info/PKG-INFO
+build/walldetector_pkg/walldetector_pkg.egg-info/SOURCES.txt
+build/walldetector_pkg/walldetector_pkg.egg-info/dependency_links.txt
+build/walldetector_pkg/walldetector_pkg.egg-info/entry_points.txt
+build/walldetector_pkg/walldetector_pkg.egg-info/requires.txt
+build/walldetector_pkg/walldetector_pkg.egg-info/top_level.txt
+build/walldetector_pkg/walldetector_pkg.egg-info/zip-safe
+launch/walldetector_pkg_launch_file.launch.py
+resource/walldetector_pkg
+walldetector_pkg/__init__.py
+walldetector_pkg/walldetector.py
