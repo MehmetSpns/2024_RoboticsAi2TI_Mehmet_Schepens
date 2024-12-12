@@ -1,0 +1,3 @@
+[console_scripts]
+obstakelvermijding = obstakelvermijding_pkg.obstakelvermijding:main
+

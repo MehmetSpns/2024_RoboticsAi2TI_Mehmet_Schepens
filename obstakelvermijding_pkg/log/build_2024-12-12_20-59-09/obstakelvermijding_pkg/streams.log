@@ -1,0 +1,24 @@
+[0.473s] Invoking command in '/home/dogan/ros2_ws/src/obstakelvermijding_pkg': PYTHONPATH=/home/dogan/ros2_ws/src/obstakelvermijding_pkg/build/obstakelvermijding_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dogan/ros2_ws/src/obstakelvermijding_pkg/install/obstakelvermijding_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/obstakelvermijding_pkg build --build-base /home/dogan/ros2_ws/src/obstakelvermijding_pkg/build/obstakelvermijding_pkg/build install --record /home/dogan/ros2_ws/src/obstakelvermijding_pkg/build/obstakelvermijding_pkg/install.log --single-version-externally-managed install_data
+[0.652s] running egg_info
+[0.653s] writing build/obstakelvermijding_pkg/obstakelvermijding_pkg.egg-info/PKG-INFO
+[0.653s] writing dependency_links to build/obstakelvermijding_pkg/obstakelvermijding_pkg.egg-info/dependency_links.txt
+[0.653s] writing entry points to build/obstakelvermijding_pkg/obstakelvermijding_pkg.egg-info/entry_points.txt
+[0.653s] writing requirements to build/obstakelvermijding_pkg/obstakelvermijding_pkg.egg-info/requires.txt
+[0.653s] writing top-level names to build/obstakelvermijding_pkg/obstakelvermijding_pkg.egg-info/top_level.txt
+[0.654s] reading manifest file 'build/obstakelvermijding_pkg/obstakelvermijding_pkg.egg-info/SOURCES.txt'
+[0.655s] writing manifest file 'build/obstakelvermijding_pkg/obstakelvermijding_pkg.egg-info/SOURCES.txt'
+[0.655s] running build
+[0.655s] running build_py
+[0.655s] copying obstakelvermijding_pkg/obstakelvermijding.py -> /home/dogan/ros2_ws/src/obstakelvermijding_pkg/build/obstakelvermijding_pkg/build/lib/obstakelvermijding_pkg
+[0.655s] running install
+[0.655s] running install_lib
+[0.656s] copying /home/dogan/ros2_ws/src/obstakelvermijding_pkg/build/obstakelvermijding_pkg/build/lib/obstakelvermijding_pkg/obstakelvermijding.py -> /home/dogan/ros2_ws/src/obstakelvermijding_pkg/install/obstakelvermijding_pkg/lib/python3.10/site-packages/obstakelvermijding_pkg
+[0.656s] byte-compiling /home/dogan/ros2_ws/src/obstakelvermijding_pkg/install/obstakelvermijding_pkg/lib/python3.10/site-packages/obstakelvermijding_pkg/obstakelvermijding.py to obstakelvermijding.cpython-310.pyc
+[0.656s] running install_data
+[0.657s] running install_egg_info
+[0.658s] removing '/home/dogan/ros2_ws/src/obstakelvermijding_pkg/install/obstakelvermijding_pkg/lib/python3.10/site-packages/obstakelvermijding_pkg-0.1.0-py3.10.egg-info' (and everything under it)
+[0.658s] Copying build/obstakelvermijding_pkg/obstakelvermijding_pkg.egg-info to /home/dogan/ros2_ws/src/obstakelvermijding_pkg/install/obstakelvermijding_pkg/lib/python3.10/site-packages/obstakelvermijding_pkg-0.1.0-py3.10.egg-info
+[0.658s] running install_scripts
+[0.672s] Installing obstakelvermijding script to /home/dogan/ros2_ws/src/obstakelvermijding_pkg/install/obstakelvermijding_pkg/lib/obstakelvermijding_pkg
+[0.672s] writing list of installed files to '/home/dogan/ros2_ws/src/obstakelvermijding_pkg/build/obstakelvermijding_pkg/install.log'
+[0.688s] Invoked command in '/home/dogan/ros2_ws/src/obstakelvermijding_pkg' returned '0': PYTHONPATH=/home/dogan/ros2_ws/src/obstakelvermijding_pkg/build/obstakelvermijding_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dogan/ros2_ws/src/obstakelvermijding_pkg/install/obstakelvermijding_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/obstakelvermijding_pkg build --build-base /home/dogan/ros2_ws/src/obstakelvermijding_pkg/build/obstakelvermijding_pkg/build install --record /home/dogan/ros2_ws/src/obstakelvermijding_pkg/build/obstakelvermijding_pkg/install.log --single-version-externally-managed install_data

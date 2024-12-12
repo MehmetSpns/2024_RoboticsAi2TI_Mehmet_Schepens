@@ -1,0 +1,4 @@
+import sys
+if sys.prefix == '/usr':
+    sys.real_prefix = sys.prefix
+    sys.prefix = sys.exec_prefix = '/home/dogan/ros2_ws/src/obstakelvermijding_pkg/install/obstakelvermijding_pkg'
