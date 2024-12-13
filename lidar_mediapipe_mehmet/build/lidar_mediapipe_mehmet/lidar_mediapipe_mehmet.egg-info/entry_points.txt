@@ -1,0 +1,4 @@
+[console_scripts]
+gesturecontrol = lidar_mediapipe_mehmet.gesturecontrol:main
+robotcontrol = lidar_mediapipe_mehmet.robotcontrol:main
+

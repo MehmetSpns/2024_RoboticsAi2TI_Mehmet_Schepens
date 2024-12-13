@@ -1,0 +1,25 @@
+[0.515s] Invoking command in '/home/dogan/ros2_ws/src/lidar_mediapipe_mehmet': PYTHONPATH=/home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/build/lidar_mediapipe_mehmet/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/install/lidar_mediapipe_mehmet/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/lidar_mediapipe_mehmet build --build-base /home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/build/lidar_mediapipe_mehmet/build install --record /home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/build/lidar_mediapipe_mehmet/install.log --single-version-externally-managed install_data
+[0.717s] running egg_info
+[0.718s] writing build/lidar_mediapipe_mehmet/lidar_mediapipe_mehmet.egg-info/PKG-INFO
+[0.718s] writing dependency_links to build/lidar_mediapipe_mehmet/lidar_mediapipe_mehmet.egg-info/dependency_links.txt
+[0.718s] writing entry points to build/lidar_mediapipe_mehmet/lidar_mediapipe_mehmet.egg-info/entry_points.txt
+[0.718s] writing requirements to build/lidar_mediapipe_mehmet/lidar_mediapipe_mehmet.egg-info/requires.txt
+[0.718s] writing top-level names to build/lidar_mediapipe_mehmet/lidar_mediapipe_mehmet.egg-info/top_level.txt
+[0.720s] reading manifest file 'build/lidar_mediapipe_mehmet/lidar_mediapipe_mehmet.egg-info/SOURCES.txt'
+[0.721s] writing manifest file 'build/lidar_mediapipe_mehmet/lidar_mediapipe_mehmet.egg-info/SOURCES.txt'
+[0.721s] running build
+[0.721s] running build_py
+[0.721s] copying lidar_mediapipe_mehmet/robotcontrol.py -> /home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/build/lidar_mediapipe_mehmet/build/lib/lidar_mediapipe_mehmet
+[0.721s] running install
+[0.721s] running install_lib
+[0.722s] copying /home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/build/lidar_mediapipe_mehmet/build/lib/lidar_mediapipe_mehmet/robotcontrol.py -> /home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/install/lidar_mediapipe_mehmet/lib/python3.10/site-packages/lidar_mediapipe_mehmet
+[0.722s] byte-compiling /home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/install/lidar_mediapipe_mehmet/lib/python3.10/site-packages/lidar_mediapipe_mehmet/robotcontrol.py to robotcontrol.cpython-310.pyc
+[0.723s] running install_data
+[0.723s] running install_egg_info
+[0.725s] removing '/home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/install/lidar_mediapipe_mehmet/lib/python3.10/site-packages/lidar_mediapipe_mehmet-0.0.0-py3.10.egg-info' (and everything under it)
+[0.725s] Copying build/lidar_mediapipe_mehmet/lidar_mediapipe_mehmet.egg-info to /home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/install/lidar_mediapipe_mehmet/lib/python3.10/site-packages/lidar_mediapipe_mehmet-0.0.0-py3.10.egg-info
+[0.725s] running install_scripts
+[0.745s] Installing gesturecontrol script to /home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/install/lidar_mediapipe_mehmet/lib/lidar_mediapipe_mehmet
+[0.745s] Installing robotcontrol script to /home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/install/lidar_mediapipe_mehmet/lib/lidar_mediapipe_mehmet
+[0.745s] writing list of installed files to '/home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/build/lidar_mediapipe_mehmet/install.log'
+[0.764s] Invoked command in '/home/dogan/ros2_ws/src/lidar_mediapipe_mehmet' returned '0': PYTHONPATH=/home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/build/lidar_mediapipe_mehmet/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/install/lidar_mediapipe_mehmet/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/lidar_mediapipe_mehmet build --build-base /home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/build/lidar_mediapipe_mehmet/build install --record /home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/build/lidar_mediapipe_mehmet/install.log --single-version-externally-managed install_data

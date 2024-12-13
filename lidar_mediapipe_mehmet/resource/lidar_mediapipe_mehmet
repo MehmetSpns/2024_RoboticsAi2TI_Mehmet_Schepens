@@ -1,0 +1,18 @@
+from launch import LaunchDescription
+from launch_ros.actions import Node
+
+def generate_launch_description():
+    return LaunchDescription([
+        Node(
+            package='your_package_name',
+            executable='gesturecontrol.py',
+            name='gesture_control_node',
+            output='screen'
+        ),
+        Node(
+            package='your_package_name',
+            executable='robotcontrol.py',
+            name='robot_control_node',
+            output='screen'
+        )
+    ])

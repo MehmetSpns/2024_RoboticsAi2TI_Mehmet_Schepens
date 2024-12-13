@@ -1,0 +1,28 @@
+running egg_info
+writing build/lidar_mediapipe_mehmet/lidar_mediapipe_mehmet.egg-info/PKG-INFO
+writing dependency_links to build/lidar_mediapipe_mehmet/lidar_mediapipe_mehmet.egg-info/dependency_links.txt
+writing entry points to build/lidar_mediapipe_mehmet/lidar_mediapipe_mehmet.egg-info/entry_points.txt
+writing requirements to build/lidar_mediapipe_mehmet/lidar_mediapipe_mehmet.egg-info/requires.txt
+writing top-level names to build/lidar_mediapipe_mehmet/lidar_mediapipe_mehmet.egg-info/top_level.txt
+reading manifest file 'build/lidar_mediapipe_mehmet/lidar_mediapipe_mehmet.egg-info/SOURCES.txt'
+writing manifest file 'build/lidar_mediapipe_mehmet/lidar_mediapipe_mehmet.egg-info/SOURCES.txt'
+running build
+running build_py
+copying lidar_mediapipe_mehmet/gesturecontrol.py -> /home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/build/lidar_mediapipe_mehmet/build/lib/lidar_mediapipe_mehmet
+copying lidar_mediapipe_mehmet/robotcontrol.py -> /home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/build/lidar_mediapipe_mehmet/build/lib/lidar_mediapipe_mehmet
+running install
+running install_lib
+copying /home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/build/lidar_mediapipe_mehmet/build/lib/lidar_mediapipe_mehmet/gesturecontrol.py -> /home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/install/lidar_mediapipe_mehmet/lib/python3.10/site-packages/lidar_mediapipe_mehmet
+copying /home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/build/lidar_mediapipe_mehmet/build/lib/lidar_mediapipe_mehmet/robotcontrol.py -> /home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/install/lidar_mediapipe_mehmet/lib/python3.10/site-packages/lidar_mediapipe_mehmet
+byte-compiling /home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/install/lidar_mediapipe_mehmet/lib/python3.10/site-packages/lidar_mediapipe_mehmet/gesturecontrol.py to gesturecontrol.cpython-310.pyc
+byte-compiling /home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/install/lidar_mediapipe_mehmet/lib/python3.10/site-packages/lidar_mediapipe_mehmet/robotcontrol.py to robotcontrol.cpython-310.pyc
+running install_data
+creating /home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/install/lidar_mediapipe_mehmet/share/lidar_mediapipe_mehmet/launch
+copying launch/lidar_mediapipe_mehmet_launch_file.py -> /home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/install/lidar_mediapipe_mehmet/share/lidar_mediapipe_mehmet/launch
+running install_egg_info
+removing '/home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/install/lidar_mediapipe_mehmet/lib/python3.10/site-packages/lidar_mediapipe_mehmet-0.0.0-py3.10.egg-info' (and everything under it)
+Copying build/lidar_mediapipe_mehmet/lidar_mediapipe_mehmet.egg-info to /home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/install/lidar_mediapipe_mehmet/lib/python3.10/site-packages/lidar_mediapipe_mehmet-0.0.0-py3.10.egg-info
+running install_scripts
+Installing gesturecontrol script to /home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/install/lidar_mediapipe_mehmet/lib/lidar_mediapipe_mehmet
+Installing robotcontrol script to /home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/install/lidar_mediapipe_mehmet/lib/lidar_mediapipe_mehmet
+writing list of installed files to '/home/dogan/ros2_ws/src/lidar_mediapipe_mehmet/build/lidar_mediapipe_mehmet/install.log'
