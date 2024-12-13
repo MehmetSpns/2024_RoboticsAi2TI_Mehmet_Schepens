@@ -17,7 +17,7 @@ This repository contains a Python-based ROS2 node that implements a simple obsta
 1. Clone this repository into your ROS2 workspace:
    ```bash
    cd ~/ros2_ws/src
-   git clone <repository_url>
+   git clone https://github.com/MehmetSpns/2024_RoboticsAi2TI_Mehmet_Schepens.git
    ```
 2. Build the workspace:
    ```bash
