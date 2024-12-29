@@ -1,0 +1,3 @@
+[console_scripts]
+cartographer_node = cartographer_pkg.cartographer_node:main
+
